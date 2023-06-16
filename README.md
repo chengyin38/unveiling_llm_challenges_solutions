@@ -4,4 +4,4 @@ Presented at [UC Berkeley AI Hackathon June 2023](https://ai.calhacks.io/)
 
 Abstract:
 
-Chengyin Eng is a Senior Data Scientist at Databricks and a regular speaker at conferences and universities. She is experienced in developing end-to-end scalable machine learning solutions for cross-functional clients. She teaches machine learning (including deep learning) in production and recently has launched an edX course on Large Language Models: Application through Production. Outside of work, she enjoys watching crime mystery films and trying out new food recipes.
+Recent large language model (LLM) development is hastening many organizations to adopt LLMs in order to stay relevant. Under the facade of the seeming omnipotence of LLMs lies many risks and limitations that we, as builders and users of such technology, must consider and overcome. The audience will walk away from this talk having a more holistic understanding of the opportunities and challenges of LLMs, and how these considerations inform the suite of emerging solutions and how they may pave future LLM development.
